@@ -1,4 +1,4 @@
-"""A simple program to translate a phase into pig latin
+"""A simple program to translate a phrase into pig latin
 Coded by: Rowan Jansens"""
 
 
